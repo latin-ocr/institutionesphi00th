@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./institutionesphi00th_0399.png"; bbox 0 0 1408 2574; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 156 716 1055 832">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 156 716 1055 832">
+     <span class='ocr_line' id='line_1_1' title="bbox 156 716 1055 832; baseline 0.004 -4"><span class='ocrx_word' id='word_1_1' title='bbox 156 716 1055 832; x_wconf 84' lang='lat' dir='ltr'>INSTITUTIONES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 38 906 1222 1052">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 38 906 1222 1052">
+     <span class='ocr_line' id='line_1_2' title="bbox 38 906 1222 1052; baseline 0.009 -11"><span class='ocrx_word' id='word_1_2' title='bbox 38 906 1179 1047; x_wconf 75' lang='lat' dir='ltr'><strong>PHILOSOPHIAE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1219 1049 1222 1052; x_wconf 79' lang='grc'><strong>,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 236 1110 947 1293">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 236 1110 947 1293">
+     <span class='ocr_line' id='line_1_3' title="bbox 236 1110 947 1293; baseline -0.001 -93"><span class='ocrx_word' id='word_1_4' title='bbox 236 1113 324 1200; x_wconf 94' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_5' title='bbox 326 1110 947 1293; x_wconf 48' lang='lat' dir='ltr'>ATIglggXLIS,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 182 1331 1079 1430">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 182 1331 1079 1430">
+     <span class='ocr_line' id='line_1_4' title="bbox 182 1331 1079 1430; baseline -0.011 0"><span class='ocrx_word' id='word_1_6' title='bbox 182 1331 1079 1430; x_wconf 77' lang='lat' dir='ltr'>PHYSICAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1145 2272 1275 2352">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1145 2272 1275 2352">
+     <span class='ocr_line' id='line_1_5' title="bbox 1145 2272 1275 2352; baseline 0.031 -4"><span class='ocrx_word' id='word_1_7' title='bbox 1145 2272 1275 2352; x_wconf 53' lang='lat' dir='ltr'>{Na</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
